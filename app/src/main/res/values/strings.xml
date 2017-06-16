@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Desafio Supero</string>
+    <string name="title_activity_result">Contato</string>
+    <string name="save">Salvar</string>
+    <string name="inNome">Nome</string>
+    <string name="inLogradouro">Logradouro</string>
+    <string name="inCep">CEP</string>
+    <string name="inBairro">Bairro</string>
+    <string name="inComplemento">Complemento</string>
+    <string name="inNumero">Número</string>
+    <string name="inCidade">Cidade</string>
+    <string name="inUf">UF</string>
+    <string name="inEmail">E-mail</string>
+</resources>
